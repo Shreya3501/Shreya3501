@@ -1,5 +1,23 @@
-# Hi 👋 I'm Shreya Sunal
+<div align="center">
 
-<p align="center">
-  <img src="data/avi-ascii.svg" width="900">
-</p>
+<h3><code>shreya@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+
+<td valign="top">
+
+<img src="./data/avi-ascii.svg" width="350"/>
+
+</td>
+
+<td valign="top">
+
+<img src="./info-card.svg" width="500"/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
