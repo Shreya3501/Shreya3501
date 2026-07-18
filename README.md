@@ -13,7 +13,7 @@
 
 <td valign="top">
 
-<img src="./info-card.svg" width="500"/>
+<img src="./data/info-card.svg" width="500"/>
 
 </td>
 
