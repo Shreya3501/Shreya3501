@@ -1786,7 +1786,7 @@ y="50"
 width="12"
 height="12"
 rx="3"
-fill="#006d32"
+fill="#26a641"
 filter="url(#glow)">
 
 <animate
@@ -1820,7 +1820,7 @@ y="65"
 width="12"
 height="12"
 rx="3"
-fill="#0e4429"
+fill="#006d32"
 filter="url(#glow)">
 
 <animate
@@ -5390,7 +5390,7 @@ y="65"
 width="12"
 height="12"
 rx="3"
-fill="#006d32"
+fill="#26a641"
 filter="url(#glow)">
 
 <animate
@@ -7226,7 +7226,7 @@ y="35"
 width="12"
 height="12"
 rx="3"
-fill="#0e4429"
+fill="#006d32"
 filter="url(#glow)">
 
 <animate
@@ -8892,7 +8892,7 @@ y="35"
 width="12"
 height="12"
 rx="3"
-fill="#26a641"
+fill="#39d353"
 filter="url(#glow)">
 
 <animate
@@ -9028,7 +9028,7 @@ y="95"
 width="12"
 height="12"
 rx="3"
-fill="#0e4429"
+fill="#006d32"
 filter="url(#glow)">
 
 <animate
@@ -10796,7 +10796,7 @@ y="35"
 width="12"
 height="12"
 rx="3"
-fill="#26a641"
+fill="#39d353"
 filter="url(#glow)">
 
 <animate
@@ -10830,7 +10830,7 @@ y="50"
 width="12"
 height="12"
 rx="3"
-fill="#0e4429"
+fill="#006d32"
 filter="url(#glow)">
 
 <animate
@@ -12598,7 +12598,7 @@ y="95"
 width="12"
 height="12"
 rx="3"
-fill="#26a641"
+fill="#39d353"
 filter="url(#glow)">
 
 <animate
@@ -12632,7 +12632,7 @@ y="110"
 width="12"
 height="12"
 rx="3"
-fill="#161b22"
+fill="#006d32"
 filter="url(#glow)">
 
 <animate
