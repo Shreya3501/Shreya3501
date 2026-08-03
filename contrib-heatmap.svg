@@ -1752,7 +1752,7 @@ y="35"
 width="12"
 height="12"
 rx="3"
-fill="#26a641"
+fill="#006d32"
 filter="url(#glow)">
 
 <animate
@@ -3622,7 +3622,7 @@ y="20"
 width="12"
 height="12"
 rx="3"
-fill="#161b22"
+fill="#39d353"
 filter="url(#glow)">
 
 <animate
@@ -12428,7 +12428,7 @@ y="20"
 width="12"
 height="12"
 rx="3"
-fill="#39d353"
+fill="#26a641"
 filter="url(#glow)">
 
 <animate
