@@ -12326,7 +12326,7 @@ y="80"
 width="12"
 height="12"
 rx="3"
-fill="#0e4429"
+fill="#161b22"
 filter="url(#glow)">
 
 <animate
@@ -12360,7 +12360,7 @@ y="95"
 width="12"
 height="12"
 rx="3"
-fill="#39d353"
+fill="#0e4429"
 filter="url(#glow)">
 
 <animate
@@ -12394,7 +12394,7 @@ y="110"
 width="12"
 height="12"
 rx="3"
-fill="#26a641"
+fill="#39d353"
 filter="url(#glow)">
 
 <animate
@@ -12428,7 +12428,7 @@ y="20"
 width="12"
 height="12"
 rx="3"
-fill="#006d32"
+fill="#26a641"
 filter="url(#glow)">
 
 <animate
@@ -12462,7 +12462,7 @@ y="35"
 width="12"
 height="12"
 rx="3"
-fill="#161b22"
+fill="#006d32"
 filter="url(#glow)">
 
 <animate
@@ -12586,6 +12586,40 @@ fill="freeze"/>
 attributeName="opacity"
 values="1;0.8;1"
 begin="4.88s"
+dur="2s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect
+x="805"
+y="95"
+width="12"
+height="12"
+rx="3"
+fill="#161b22"
+filter="url(#glow)">
+
+<animate
+attributeName="opacity"
+values="0;1"
+dur="0.4s"
+begin="4.3100000000000005s"
+fill="freeze"/>
+
+<animateTransform
+attributeName="transform"
+type="scale"
+values="0;1"
+begin="4.3100000000000005s"
+dur="0.4s"
+fill="freeze"/>
+
+<animate
+attributeName="opacity"
+values="1;0.8;1"
+begin="4.91s"
 dur="2s"
 repeatCount="indefinite"/>
 
